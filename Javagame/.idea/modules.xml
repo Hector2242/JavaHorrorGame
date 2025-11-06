@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poke-clone.iml" filepath="$PROJECT_DIR$/.idea/modules/poke-clone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/poke-clone.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/poke-clone.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/poke-clone.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/poke-clone.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poke-clone.test.iml" filepath="$PROJECT_DIR$/.idea/modules/poke-clone.test.iml" />
+    </modules>
+  </component>
+</project>
