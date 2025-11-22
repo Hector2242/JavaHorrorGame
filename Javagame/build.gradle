@@ -18,3 +18,17 @@ java {
 application {
     mainClass = "desktop.DesktopLauncher"
 }
+
+// Copy assets to the build output so libGDX can find them
+sourceSets {
+    main {
+        resources {
+            srcDirs = ['assets']
+        }
+    }
+}
+
+// Set working directory to project root for running the game
+tasks.withType(JavaExec).configureEach {
+    workingDir = projectDir
+}
